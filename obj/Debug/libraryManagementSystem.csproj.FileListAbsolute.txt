@@ -1,0 +1,17 @@
+R:\C#\LIBRARY.C#\libraryManagementSystem\bin\Debug\Database1.mdf
+R:\C#\LIBRARY.C#\libraryManagementSystem\bin\Debug\Database1_log.ldf
+R:\C#\LIBRARY.C#\libraryManagementSystem\bin\Debug\libraryManagementSystem.exe.config
+R:\C#\LIBRARY.C#\libraryManagementSystem\bin\Debug\libraryManagementSystem.exe
+R:\C#\LIBRARY.C#\libraryManagementSystem\bin\Debug\libraryManagementSystem.pdb
+R:\C#\LIBRARY.C#\libraryManagementSystem\obj\Debug\libraryManagementSystem.csprojAssemblyReference.cache
+R:\C#\LIBRARY.C#\libraryManagementSystem\obj\Debug\libraryManagementSystem.login.resources
+R:\C#\LIBRARY.C#\libraryManagementSystem\obj\Debug\libraryManagementSystem.Properties.Resources.resources
+R:\C#\LIBRARY.C#\libraryManagementSystem\obj\Debug\libraryManagementSystem.csproj.GenerateResource.cache
+R:\C#\LIBRARY.C#\libraryManagementSystem\obj\Debug\libraryManagementSystem.csproj.CoreCompileInputs.cache
+R:\C#\LIBRARY.C#\libraryManagementSystem\obj\Debug\libraryManagementSystem.exe
+R:\C#\LIBRARY.C#\libraryManagementSystem\obj\Debug\libraryManagementSystem.pdb
+R:\C#\LIBRARY.C#\libraryManagementSystem\obj\Debug\libraryManagementSystem.mdi_user.resources
+R:\C#\LIBRARY.C#\libraryManagementSystem\obj\Debug\libraryManagementSystem.add_books.resources
+R:\C#\LIBRARY.C#\libraryManagementSystem\obj\Debug\libraryManagementSystem.view_books.resources
+R:\C#\LIBRARY.C#\libraryManagementSystem\obj\Debug\libraryManagementSystem.add_student_info.resources
+R:\C#\LIBRARY.C#\libraryManagementSystem\obj\Debug\libraryManagementSystem.view_student_info.resources
